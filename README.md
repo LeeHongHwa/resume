@@ -14,12 +14,15 @@ Github: https://github.com/LeeHongHwa
 
 ## 경력
 [플라이앤컴퍼니](https://www.foodfly.co.kr)<br>
+
 재직기간: 2017.01.09 - 2018-07-08<br>
 역할: 푸드플라이, 배달 iOS 유지보수, 개선<br>
 사용기술: Objective-C, Swift, RxSwift<br>
 [App Store](https://apps.apple.com/kr/app/%ED%91%B8%EB%93%9C%ED%94%8C%EB%9D%BC%EC%9D%B4/id824246101)
 
+
 [카카오](https://www.kakaocorp.com)<br>
+
 재직기간: 2018.07.16 - 현재<br>
 역할: 카카오스토리 iOS 유지보수, 개선<br>
 사용기술: Objective-C, Swift<br>
@@ -27,18 +30,22 @@ Github: https://github.com/LeeHongHwa
 
 ## 개인 프로젝트
 DogDay<br>
+
 설명: 반려견을 위한 D-Day<br>
 기간: 2017.10.21 - 2017.12.13<br>
 역할: iOS 개발<br>
 사용기술: Swift<br>
 [App Store](https://apps.apple.com/kr/app/dogday/id1323721037)
 
+
 먼지알랴줌<br>
+
 설명: 미세먼지 알림<br>
 기간: 2019.04.01 - 2019-07-31<br>
 역할: iOS 개발<br>
 사용기술: Swift, RxSwift<br>
 [App Store](https://apps.apple.com/kr/app/%EB%A8%BC%EC%A7%80%EC%95%8C%EB%9E%B4%EC%A4%8C/id1470952112)
+
 
 [Architecture Pattern과 Unit Test]: <https://github.com/LeeHongHwa/Architecture-Sample>
 [함수형 프로그래밍]: <https://leehonghwa.github.io/blog/FunctionalProgramming>
